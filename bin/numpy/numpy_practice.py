@@ -9,7 +9,7 @@ Created on Mon Jul 10 12:20:49 2017
 
 """
 
-import numpy as np
+import bin.numpy as np
 
 a = np.array([1, 2, 3])  # 一维Numpy数组
 print type(a)            # Prints "<type 'numpy.ndarray'>"
